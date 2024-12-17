@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814776988094",
+    "project_id": "bozor-8c504",
+    "storage_bucket": "bozor-8c504.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814776988094:android:1b17e51b5ef19043ad89ef",
+        "android_client_info": {
+          "package_name": "uz.bozor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814776988094-75v7umn65bvh3jbbs21vtdo6d6dhfvle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.bozor.app",
+            "certificate_hash": "53c2b127eddbd64c69c3ec02f563fd86da2403dc"
+          }
+        },
+        {
+          "client_id": "814776988094-r91jrp4b2kki5pvkik6aeiqp5ippefh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJzAnK2kNlfKc8qhlWsBaU_NQXjSXlSzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814776988094-r91jrp4b2kki5pvkik6aeiqp5ippefh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
